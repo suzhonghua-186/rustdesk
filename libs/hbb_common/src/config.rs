@@ -100,7 +100,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["nas.su183.top"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["www.huaxin183.i234.me"];
 pub const PUBLIC_RS_PUB_KEY: &str = "GQCN5W05tvHz1ggR8zpBHSMhQNaK8ODomfm1m2icZQo=";
 
 pub const RS_PUB_KEY: &str = match option_env!("RS_PUB_KEY") {
